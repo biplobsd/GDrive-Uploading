@@ -9,3 +9,7 @@
 <B>Meg@ to GD Uploading</B>
 >
 <a href="https://colab.research.google.com/github/FayedFahad/GDrive-Uploading/blob/master/Mega_GD_Transfer.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+>
+<B>Torrent Resumable</B>
+>
+<a href="https://colab.research.google.com/github/FayedFahad/GDrive-Uploading/blob/master/Torrent_Resumable.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
