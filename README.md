@@ -9,7 +9,7 @@
  <pre></pre> 
   - [ ] **Torrent Downloading**
  - Torrent Downloading Simple &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://colab.research.google.com/github/FayedFahad/GDrive-Uploading/blob/master/ColabTorrent_Simple.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
- - Torrent Downloading Resumable&nbsp;&nbsp; <a href="https://colab.research.google.com/github/FayedFahad/GDrive-Uploading/blob/master/Torrent_Resumable_v2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"</a>
+ - Torrent Downloading Resumable&nbsp;&nbsp; <a href="https://colab.research.google.com/github/FayedFahad/GDrive-Uploading/blob/master/Torrent_Resumable_v2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
  <pre></pre>  
   - [ ] **MEGA Downloading**
   - Mega transfer to GD  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://colab.research.google.com/github/FayedFahad/GDrive-Uploading/blob/master/ColabMega***_Transfer.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
